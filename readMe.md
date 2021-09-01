@@ -147,7 +147,7 @@ function avancarDias(dia, quantidade) {
 
 Apesar de ser um código de apenas 11 linhas, muitos conceitos importantes de JavaScript e lógica de programação são aplicados. Se você conseguiu otimizar esse código ainda mais, me mande sua sugestão que eu ficaria satisfeito em receber!
 
-No mais, se você aprendeu alguma coisa com este artigo ou achou útil, deixe aquele ❤️ ou salve 🔖 nos seus favoritos. Ficarei feliz também em receber eventuais feedbacks, pode me mandar uma mensagem no meu [Instagram](https://www.instagram.com/alanpfabricio/) ou [LinkedIn](https://www.linkedin.com/in/alantsx/).
+No mais, se você aprendeu alguma coisa com este artigo ou achou útil salve nos seus favoritos ou mande para alguém. Ficarei feliz também em receber eventuais feedbacks, pode me mandar uma mensagem no meu [Instagram](https://www.instagram.com/alanpfabricio/) ou [LinkedIn](https://www.linkedin.com/in/alantsx/).
 
 -----
 See ya later!
